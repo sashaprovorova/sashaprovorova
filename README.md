@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/yQ6QlIyJf-EAAAAM/cats-computer.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/yQ6QlIyJf-EAAAAM/cats-computer.gif"  />
 
 ###
 
