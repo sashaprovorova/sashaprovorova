@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-</p>
+</div>
 
 ###
 
@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sashaprovorova/sashaprovorova/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sashaprovorova/sashaprovorova/output/snake.svg" style="max-width: 100%; width: 700px;" alt="Snake animation" />
 
 ###
