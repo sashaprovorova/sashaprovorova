@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/yQ6QlIyJf-EAAAAM/cats-computer.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/yQ6QlIyJf-EAAAAM/cats-computer.gif"  />
 
 ###
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-</div>
+</p>
 
 ###
 
