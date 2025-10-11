@@ -11,14 +11,11 @@
 
 <img align="right" height="200" src="https://media.tenor.com/yQ6QlIyJf-EAAAAM/cats-computer.gif"  />
 
-###
-
-<div style="clear: both; height: 40px;"></div>
 
 ###
 
 
-<div align="left" width="60%">
+<div align="left" >
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
